@@ -1,4 +1,4 @@
 #content{border:0;
 width:70%;
 height:100%; display: inline-block;}
-#menu{position: inline-block;}
+#menu{display: inline-block;}
