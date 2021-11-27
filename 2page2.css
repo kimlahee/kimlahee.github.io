@@ -2,4 +2,8 @@
 width:70%;
 height:70vh; display: inline-block;}
 #menu{ padding: 4px; display: inline-block;}
+#menu a { 
+text-decoration: none; 
+color: #887671; padding: 3px;
+}
 .menuitem { border: 4px dotted #c4c4c4 }
