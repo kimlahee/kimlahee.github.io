@@ -4,3 +4,4 @@ body{background-color: #FFFBF3; color: #887671;
 h1{text-aligen:center; color: #887671; margin-left:50px; font-family:"Times New Roman", serif;
   font-size:large;}
 h2{text-aligen:center;}
+#menu li{margin-left: 0; }
