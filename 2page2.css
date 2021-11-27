@@ -6,7 +6,7 @@ height:70vh; display: inline-block;}
 text-decoration: none; 
 color: #887671;
 }
-#menu div:hover {
+#menu div:hover { color: white;
  background-color: #90603a
 }
 .menuitem { border: 4px dotted #c4c4c4 }
