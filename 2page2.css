@@ -10,3 +10,6 @@ color: #887671;
  background-color: #90603a
 }
 .menuitem {margin-left:20px; border: 4px dotted #c4c4c4 }
+body{padding-top:100px; background-color: #FFFBF3; color: #887671;
+  margin-left:30px; margin-right:30px; font-family:"Consolas", serif;
+  font-size:large;}
