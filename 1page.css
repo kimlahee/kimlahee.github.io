@@ -1,7 +1,7 @@
-@font-face{font-family:"christmas"; src:url("./christmas.otf");}
+@font-face{font-family:"MerryChristmasFlake"; src:url("./MerryChristmasFlake.otf");}
 body{padding-top:50px; background-color:beige; color: white;
   font-family:"christmas", serif;
-  font-size: medium; text-align: center;}
+  font-size: large; text-align: center;}
 h1{text-align: center; color:pink; font-family:"Times New Roman";
   font-size: 40px;}
 #container { margin: 0 auto; }
