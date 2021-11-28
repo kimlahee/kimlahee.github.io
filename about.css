@@ -1,4 +1,4 @@
-@font-face{font-family:"aabbcc"; src:url("./aabbcc.ttf");
+@font-face{font-family:"aabbcc"; src:url("./aabbcc.ttf");}
 
 #h1 {color: #887671;  font-family:"Consolas"; font-size: 30px;}
 #h2 {color: #887671;  font-family:"Consolas"; font-size: 30px;}
