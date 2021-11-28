@@ -1,6 +1,6 @@
 @font-face{font-family:"MerryChristmasFlake"; src:url("./MerryChristmasFlake.ttf");}
 body{padding-top:50px; background-color:beige; color: white;
-  font-family:"christmas", serif;
+  font-family:"MerryChristmasFlake", serif;
   font-size: large; text-align: center;}
 h1{text-align: center; color:pink; font-family:"Times New Roman";
   font-size: 40px;}
