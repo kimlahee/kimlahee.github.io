@@ -1,4 +1,4 @@
-@font-face{font-family:"christmas"; src:url("./christmas.otf");
+@font-face{font-family:"christmas"; src:url("./christmas.otf");}
 body{padding-top:50px; background-color:beige; color: white;
   font-family:"Times New Roman","Christmas Squad - Personal Use", serif;
   font-size: medium; text-align: center;}
