@@ -1,7 +1,6 @@
 @font-face{font-family:"abc"; src:url("./abc.otf");}
 body{padding-top:50px; background-color:beige; color: white;
-  font-family:"abc", serif;
-  font-size: 30px; text-align: center;}
+  font-family:"abc", serif; text-align: center;}
 h1{text-align: center; color:pink; font-family:"Times New Roman";
   font-size: 40px;}
 #container { margin: 0 auto; }
