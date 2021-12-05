@@ -1,4 +1,4 @@
-#content{border:3px dotted #c4c4c4;
+#content{border:20px; border-img:url("테두리.png") 20 round;
 width:70%;
 height:70vh; display: inline-block;}
 #menu{padding: 10px; display: inline-block; position : absolute; top: 240px; }
