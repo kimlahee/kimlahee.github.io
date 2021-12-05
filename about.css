@@ -1,6 +1,6 @@
-@font-face{font-family:"aabbcc"; src:url("./aabbcc.ttf");}
+@font-face{font-family:"cdf"; src:url("./cdf.ttf");}
 
-h1 {color: #887671;  font-family:"aabbcc"; font-size: 30px;}
-h2 {color: #887671;  font-family:"aabbcc"; font-size: 30px;}
+h1 {color: #887671;  font-family:"cdf"; font-size: 30px;}
+h2 {color: #887671;  font-family:"cdf"; font-size: 30px;}
 
-pre {color: #887671; font-family:"aabbcc";  font-size: 20px;}
+pre {color: #887671; font-family:"cdf";  font-size: 20px;}
