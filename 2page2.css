@@ -1,5 +1,5 @@
 a{text-decoration: none;}
-#content{border:100px; border-style:solid; border-color: white; border-image:url("./tete.png") 100 round;
+#content{border:120px; border-style:solid; border-color: white; border-image:url("./tete.png") 120 round;
 width:70%;
 height:70vh; display: inline-block;}
 #menu{padding: 10px; display: inline-block; position : absolute; top: 240px; }
