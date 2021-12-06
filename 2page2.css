@@ -1,4 +1,4 @@
-#content{border:50px; border-style:solid; border-color: white; border-image:url("./tete.png") 50 round;
+#content{border:80px; border-style:solid; border-color: white; border-image:url("./tete.png") 80 round;
 width:70%;
 height:70vh; display: inline-block;}
 #menu{padding: 10px; display: inline-block; position : absolute; top: 240px; }
