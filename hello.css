@@ -1,2 +1,4 @@
-h1{text-align: center; color:#A25883; font-family:"Times New Roman";
+@font-face{font-family:"abc"; src:url("./abc.otf");}
+
+h1{text-align: center; color:#A25883; font-family:"abc";
   font-size: 40px;}
