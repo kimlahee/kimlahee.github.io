@@ -5,6 +5,6 @@ h1{text-align: center; color:pink; font-family:"Times New Roman";
   font-size: 40px;}
 h2{ font-family:"abc" font-size: 25px; text-align: center;}
 h3{font-family:"abc" font-size: 25px; text-decoration: none; color:pink;}
-#blog{margin-left:500px;}
-#electric{margin-left:1000px;}
-#taste{margin-left:700px;}
+#blog{margin-left:500px;text-decoration: none; color:pink;font-family:"abc" font-size: 25px; }
+#electric{margin-left:1000px;text-decoration: none; color:pink;font-family:"abc" font-size: 25px; }
+#taste{margin-left:700px;text-decoration: none; color:pink;font-family:"abc" font-size: 25px; }
