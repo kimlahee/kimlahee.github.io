@@ -1,0 +1,6 @@
+@font-face{font-family:"abc"; src:url("./abc.otf");}
+body{background-color:beige; color: white;
+  font-family:"abc", serif;}
+h1{text-align: center; color:pink; font-family:"Times New Roman";
+  font-size: 40px;}
+h2{ font-family:"abc" font-size: 25px;}
